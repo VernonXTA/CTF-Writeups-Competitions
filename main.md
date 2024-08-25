@@ -1,6 +1,6 @@
-# <CTF_NAME> CTF
+# TryHackMe CTF
 
-Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
+Writeups for TryHackMe CTF: TryHackMe(<https://www.tryhackme.com>)
 
 ## Categories
 
@@ -24,7 +24,7 @@ Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
    - [ ] [<challenge_1>](<link_to_writeup>)
    - [ ] [<challenge_2>](<link_to_writeup>)
  
-- Cloud
+- Web Exploiting
    - [ ] [<challenge_1>](<link_to_writeup>)
    - [ ] [<challenge_2>](<link_to_writeup>)
    
