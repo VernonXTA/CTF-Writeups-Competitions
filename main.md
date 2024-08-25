@@ -4,7 +4,7 @@ Writeups for TryHackMe CTF: TryHackMe(<https://www.tryhackme.com>)
 
 ## Progression Status
 
-The status: "link to writeup" = 'In Progress / Planned to write'
+The status: "challenge_#" = 'In Progress / Planned to write'
 
 ## Categories
 
