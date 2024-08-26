@@ -1,6 +1,6 @@
 # TryHackMe CTF
 
-Writeups for TryHackMe CTF: TryHackMe(<https://www.tryhackme.com>)
+Writeups for TryHackMe CTF: [TryHackMe](https://www.tryhackme.com)
 
 ## Progression Status
 
@@ -28,9 +28,8 @@ The status: "challenge_#" = 'In Progress / Planned to write'
    - [ ] [<challenge_1>](<link_to_writeup>)
    - [ ] [<challenge_2>](<link_to_writeup>)
  
-- Web Exploiting
-   - [ ] [<challenge_1>]([<link to writeup>])
-   - [ ] [<challenge_2>]([<link_to_writeup>](https://medium.com/@dantehenningsen/tryhackme-publisher-8afff9e19599))
+- Web Exploitation
+   - [ ] [Publisher](https://medium.com/@dantehenningsen/tryhackme-publisher-8afff9e19599)
    
 - IoT
    - [ ] [<challenge_1>](<link_to_writeup>)
