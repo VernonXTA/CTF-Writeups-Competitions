@@ -29,7 +29,7 @@ The status: "challenge_#" = 'In Progress / Planned to write'
    - [ ] [<challenge_2>](<link_to_writeup>)
  
 - Web Exploiting
-   - [ ] [<challenge_1>]((https://medium.com/@dantehenningsen/tryhackme-publisher-8afff9e19599))
+   - [ ] [<challenge_1>](https://medium.com/@dantehenningsen/tryhackme-publisher-8afff9e19599)
    - [ ] [<challenge_2>](<link_to_writeup>)
    
 - IoT
