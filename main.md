@@ -30,6 +30,7 @@ The status: "challenge_#" = 'In Progress / Planned to write'
  
 - Web Exploitation
    - [ ] [Publisher](https://medium.com/@dantehenningsen/tryhackme-publisher-8afff9e19599)
+   - [ ] [MHA CTF](https://medium.com/@dantehenningsen/tryhackme-u-a-high-school-official-v4-ad58403aad4f)
    
 - IoT
    - [ ] [<challenge_1>](<link_to_writeup>)
